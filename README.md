@@ -9,3 +9,27 @@ Your Telegram bot Alert
 
 Your Project output
 ![Screenshot 2024-07-06 101450](https://github.com/whitehatboy005/Security_Alert/assets/147156726/00d57b17-cb8a-4ffa-8518-e355f3b00220)
+
+# Security-Alert
+
+## Installation
+## Clone the Repository
+```bash
+git clone https://github.com/whitehatboy005/Security-Alert
+```
+## Move the file
+```bash
+cd Security-Alert
+```
+## Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+## Config Your Details
+```bash
+notepad config.env
+```
+## Run the Program
+```bash
+python alert.py
+```
