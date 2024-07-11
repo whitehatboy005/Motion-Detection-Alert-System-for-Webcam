@@ -5,7 +5,7 @@ import os
 from dotenv import load_dotenv
 
 load_dotenv()
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = "7277236805:AAFNFtqNHKUzbKle0UqjEguMco6gOmrM7gQ"
 CHAT_ID = os.getenv("CHAT_ID")
 
 
