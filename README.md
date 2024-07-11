@@ -33,3 +33,6 @@ notepad config.env
 ```bash
 python alert.py
 ```
+To get Chat ID visit [@GetMyChatID_Bot](@GetMyChatID_Bot) Now you will copy the chat Id and config it.
+
+To access the bot [@ProjectResultBot](@ProjectResultBot) and activate it.
