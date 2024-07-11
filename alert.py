@@ -4,7 +4,7 @@ from time import time
 import os
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv('config.env')
 BOT_TOKEN = "7277236805:AAFNFtqNHKUzbKle0UqjEguMco6gOmrM7gQ"
 CHAT_ID = os.getenv("CHAT_ID")
 
