@@ -26,11 +26,11 @@ To access the bot [@ProjectResultBot](https://t.me/ProjectResultBot) and activat
 ## Installation
 ## Clone the Repository
 ```bash
-git clone https://github.com/whitehatboy005/Security-Alert
+git clone https://github.com/whitehatboy005/Motion-Detection-Alert-System
 ```
 ## Move the file
 ```bash
-cd Security-Alert
+cd Motion-Detection-Alert-System
 ```
 ## Install Dependencies
 ```bash
