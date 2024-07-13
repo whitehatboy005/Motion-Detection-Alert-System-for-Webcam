@@ -21,7 +21,7 @@ This Python script detects motion in a specified region of interest (ROI) from a
 
 To get Chat ID visit [@GetMyChatID_Bot](https://t.me/GetMyChatID_Bot) Now you will copy the chat Id and config it.
 
-To access the bot [@ProjectResultBot](https://t.me/ProjectResultBot) and activate it.
+To access the bot [@SecurityAlertBot](https://t.me/ProjectResultBot) and activate it.
 
 ## Installation
 ## Clone the Repository
