@@ -1,3 +1,4 @@
 opencv-python
 requests
 python-dotenv
+opencv-python-headless
