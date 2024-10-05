@@ -20,7 +20,7 @@ This Python script detects motion in a specified region of interest (ROI) from a
 ## Installation
 ## Clone the Repository
 ```bash
-git clone https://github.com/whitehatboy005/Motion-Detection-Alert-System
+git clone https://github.com/whitehatboy005/Motion-Detection-Alert-System-for-Webcam
 ```
 ## Move the file
 ```bash
