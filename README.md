@@ -43,4 +43,4 @@ python alert.py
 
 To get Chat ID visit [@GetMyChatID_Bot](https://t.me/GetMyChatID_Bot) Now you will copy the chat Id and config it.
 
-To access the bot [@SecurityAlertBot](https://t.me/ProjectResultBot) and activate it.
+To access the bot [@SecurityAlertBot](https://t.me/ProjectResultBot) and START it.
