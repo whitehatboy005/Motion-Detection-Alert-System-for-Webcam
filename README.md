@@ -47,4 +47,4 @@ To access the bot [@SecurityAlertBot](https://t.me/ProjectResultBot) and START i
 
 ## License
 
-This project is licensed under the terms of the [MIT license](LICENSE).
+This project is licensed under the terms of the [MIT license](LICENSE.md).
