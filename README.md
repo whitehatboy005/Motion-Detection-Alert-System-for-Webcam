@@ -27,7 +27,7 @@ git clone https://github.com/whitehatboy005/Motion-Detection-Alert-System-for-We
 ```
 ## Move the file
 ```bash
-cd Motion-Detection-Alert-System
+cd Motion-Detection-Alert-System-for-Webcam
 ```
 ## Install Dependencies
 ```bash
