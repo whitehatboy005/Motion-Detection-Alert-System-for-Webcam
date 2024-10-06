@@ -9,7 +9,7 @@ This Python script detects motion in a specified region of interest (ROI) from a
 - **Error Handling**: Catches exceptions during photo capture and alert sending to ensure robust operation.
 #  
 ## CCTV Motion Detection Repository
-- **Check on this repository** https://github.com/whitehatboy005/Motion-Detection-Alert-System-for-CCTV
+  **Check on this repository** https://github.com/whitehatboy005/Motion-Detection-Alert-System-for-CCTV
 
 ## Your webcam point of view
 
