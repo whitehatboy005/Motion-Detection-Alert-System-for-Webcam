@@ -7,8 +7,11 @@ This Python script detects motion in a specified region of interest (ROI) from a
 - **Adjustable Parameters**: Allows customization of ROI coordinates, background subtraction method, minimum contour area, and alert interval.
 - **Real-time Feedback**: Displays the video feed with overlaid ROI and detected contours for visual monitoring.
 - **Error Handling**: Catches exceptions during photo capture and alert sending to ensure robust operation.
-
-## Your security camera point of view
+  
+## CCTV Motion Detection Repository
+- **Check on this repository** https://github.com/whitehatboy005/Motion-Detection-Alert-System-for-CCTV
+  
+## Your webcam point of view
 
 ![Screenshot 2024-07-11 163540](https://github.com/whitehatboy005/Security-Alert/assets/147156726/06fda370-fdca-4472-b147-016612d8b60a)
 #
