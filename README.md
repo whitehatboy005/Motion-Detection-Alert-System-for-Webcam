@@ -16,13 +16,13 @@ This Python script detects motion in a specified region of interest (ROI) from a
 ## Your Telegram bot Alert
 
 ![Screenshot 2024-07-11 163715](https://github.com/whitehatboy005/Security-Alert/assets/147156726/e24a1980-2c63-4490-8ed1-e8b07936aac0)
-
+#
 ## Instructions
 
 To get Chat ID visit [@GetMyChatID_Bot](https://t.me/GetMyChatID_Bot) Now you will copy the chat Id and config it.
 
 To access the bot [@SecurityAlertBot](https://t.me/ProjectResultBot) and START it.
-
+#
 ## Installation
 ## Clone the Repository
 ```bash
@@ -47,9 +47,10 @@ notepad config.env
 ```bash
 python alert.py
 ```
+#
 ## CCTV Motion Detection Alert System Repository
   **Check on this repository** https://github.com/whitehatboy005/Motion-Detection-Alert-System-for-CCTV
-  
+# 
 ## License
 
 This project is licensed under the terms of the [MIT license](LICENSE.md).
