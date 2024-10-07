@@ -8,8 +8,6 @@ This Python script detects motion in a specified region of interest (ROI) from a
 - **Real-time Feedback**: Displays the video feed with overlaid ROI and detected contours for visual monitoring.
 - **Error Handling**: Catches exceptions during photo capture and alert sending to ensure robust operation.
 #  
-## CCTV Motion Detection Repository
-  **Check on this repository** https://github.com/whitehatboy005/Motion-Detection-Alert-System-for-CCTV
 
 ## Your webcam point of view
 
@@ -49,7 +47,9 @@ notepad config.env
 ```bash
 python alert.py
 ```
-
+## CCTV Motion Detection Alert System Repository
+  **Check on this repository** https://github.com/whitehatboy005/Motion-Detection-Alert-System-for-CCTV
+  
 ## License
 
 This project is licensed under the terms of the [MIT license](LICENSE.md).
