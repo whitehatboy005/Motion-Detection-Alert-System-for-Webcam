@@ -42,7 +42,10 @@ notepad config.env
 ```
 ## Ensure start the bot
 [@SecurityAlertBot](https://t.me/ProjectResultBot)
-
+## Test the bot Perfectly Configured
+```bash
+python bot.py
+```
 ## Run the Program
 ```bash
 python alert.py
