@@ -41,12 +41,12 @@ pip install -r requirements.txt
 notepad config.env
 ```
 ## Ensure start the bot
-[@SecurityAlertBot](https://t.me/ProjectResultBot)
+Start it --> [@SecurityAlertBot](https://t.me/ProjectResultBot)
 ## Test the bot Perfectly Configured
 ```bash
 python bot.py
 ```
-## Run the Program
+## Run the Main Program
 ```bash
 python alert.py
 ```
