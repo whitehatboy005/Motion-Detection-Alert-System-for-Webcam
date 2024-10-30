@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 # Load environment variables from the .env file
 load_dotenv('config.env')
 
-BOT_TOKEN = "7277236805:AAFNFtqNHKUzbKle0UqjEguMco6gOmrM7gQ"
+BOT_TOKEN = "7787875894:AAFUdd-82IZbgg33vgViV70fHBIRJDOfZlQ"
 CHAT_ID = os.getenv("CHAT_ID")
 
 def send_test_message():
