@@ -1,4 +1,4 @@
-# Motion Detection Alert System with OpenCV and Telegram Bot API
+![{E59AA23E-4471-4925-A1A6-D2F4442831FC}](https://github.com/user-attachments/assets/6a7203f1-eb81-4d7a-a0cb-c73f49144fed)# Motion Detection Alert System with OpenCV and Telegram Bot API
 This Python script detects motion in a specified region of interest (ROI) from a webcam feed using OpenCV. When motion is detected, it captures a frame and sends an alert with a photo via the Telegram Bot API to a specified chat ID. This system is useful for security applications where immediate alerts are needed upon unauthorized motion detection.
 
 ## Features
@@ -15,7 +15,8 @@ This Python script detects motion in a specified region of interest (ROI) from a
 #
 ## Your Telegram bot Alert
 
-![Screenshot 2024-07-11 163715](https://github.com/whitehatboy005/Security-Alert/assets/147156726/e24a1980-2c63-4490-8ed1-e8b07936aac0)
+![Screenshot 2024-11-03 183753](https://github.com/user-attachments/assets/c3d2c660-e9bf-4f02-82e1-1c14a8ad84e0)
+
 #
 ## Instructions
 
@@ -42,13 +43,14 @@ notepad config.env
 ```
 ## Ensure start the bot
 Start it --> [@SecurityAlertBot](http://t.me/CAMSEC_AlertBot)
-## Test the bot Perfectly Configured
-```bash
-python bot.py
-```
+#
+## To check on configuration in Telegram
+Type [/check] Then check it out.
+#
 ## Run the Main Program
 ```bash
-python alert.py
+python WEBCAM_Alert.py
+
 ```
 #
 ## CCTV Motion Detection Alert System Repository
