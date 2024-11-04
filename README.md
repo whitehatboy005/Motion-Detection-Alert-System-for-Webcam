@@ -44,14 +44,14 @@ notepad config.env
 ## Ensure start the bot
 Start it --> [@SecurityAlertBot](http://t.me/CAMSEC_AlertBot)
 #
-## To check on configuration in Telegram
-Type [/check] Then check it out.
-#
 ## Run the Main Program
 ```bash
 python WEBCAM_Alert.py
 
 ```
+#
+## To check on configuration in Telegram
+Type [/check] Then check it out.
 #
 ## CCTV Motion Detection Alert System Repository
   **Check on this repository** https://github.com/whitehatboy005/Motion-Detection-Alert-System-for-CCTV
