@@ -1,4 +1,5 @@
-![{E59AA23E-4471-4925-A1A6-D2F4442831FC}](https://github.com/user-attachments/assets/6a7203f1-eb81-4d7a-a0cb-c73f49144fed)# Motion Detection Alert System with OpenCV and Telegram Bot API
+# Motion Detection Alert System with OpenCV and Telegram Bot API
+[![License](https://img.shields.io/github/license/whitehatboy005/Motion-Detection-Alert-System-for-Webcam)](LICENSE.md)
 This Python script detects motion in a specified region of interest (ROI) from a webcam feed using OpenCV. When motion is detected, it captures a frame and sends an alert with a photo via the Telegram Bot API to a specified chat ID. This system is useful for security applications where immediate alerts are needed upon unauthorized motion detection.
 
 ## Features
