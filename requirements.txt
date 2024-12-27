@@ -1,5 +1,5 @@
-opencv-python
-requests
-python-dotenv
-opencv-python-headless
-python-telegram-bot
+opencv-python==4.10.0.84
+opencv-contrib-python==4.10.0.84
+requests==2.32.3
+python-dotenv==1.0.1
+python-telegram-bot==21.9
