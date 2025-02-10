@@ -39,7 +39,7 @@ cd Motion-Detection-Alert-System-for-Webcam
 ```bash
 pip install -r requirements.txt
 ```
-## Config Your Details
+## Configure Environment Variables
 ```bash
 notepad config.env
 ```
